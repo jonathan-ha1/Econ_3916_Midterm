@@ -15,7 +15,7 @@ The cleaned files used in the notebook are in the `data/` folder: `NBA_salaries.
 
 ## How to run the notebook
 1. Open the notebook in Google Colab: https://colab.research.google.com/drive/1WgTnEe_VhA7fbsRdGCxyFwMG8wZVwSqX?usp=sharing 
-2. Click the folder icon on the left and upload NBA_salaries.csv and NBA_Stats.csv from the data/ folder.
+2. Click the folder icon on the left and upload `NBA_salaries.csv` and `NBA_Stats.csv` from the `data/` folder.
 3. Click Runtime → Run all.
 4. The last cell, "Numbers my report quotes," prints every number used in the report, starting with 455 players in the salary file and ending with a final sample of 345.
 
