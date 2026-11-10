@@ -23,6 +23,6 @@ The cleaned files used in the notebook are in the `data/` folder: `NBA_salaries.
 Players who played better last season do get paid more, since a player with one more point of BPM makes about 17.0% more salary this season than a player of the same age and position. Age matters too, with pay going up early in a player’s career and peaking around age 31 before going down, which makes sense since young players are stuck on rookie deals and older players usually take smaller contracts. When minutes played is added in, the effect drops to 12.5%, which means part of the reason better players get paid more is that they also play more. Still, a lot of contracts were signed before last season even started, so this shows that performance and pay are connected, not that playing better directly causes a bigger salary.
 
 ## Files
-- `Midterm Project/Econ_3916_Midterm.ipynb`: the analysis notebook
-- `NBA_Players_Salary_and_Efficiency.pdf`: the written report
+- `midterm_starter_(1).ipynb`: the analysis notebook
+- `NBA Players Salary and Efficiency.pdf`: the written report
 - `data/NBA_salaries.csv` and `data/NBA_Stats.csv`: the cleaned data files
