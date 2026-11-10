@@ -1,0 +1,456 @@
+﻿Rk,Player,Tm,Salary,Guaranteed,player_id
+1,Stephen Curry,GSW,62587158,"$118,287,158 ",curryst01
+2,Nikola Jokić,DEN,59033114,"$59,033,114 ",jokicni01
+3,Jayson Tatum,BOS,58456566,"$188,360,046 ",tatumja01
+4,Anthony Davis,WAS,58456566,"$58,456,566 ",davisan02
+5,Giannis Antetokounmpo,MIA,58456566,"$58,456,566 ",antetgi01
+6,Joel Embiid,PHI,58100000,"$120,848,000 ",embiijo01
+7,Jaylen Brown,PHI,57078728,"$183,045,576 ",brownja02
+8,Devin Booker,PHO,57078728,"$182,159,872 ",bookede01
+9,Karl-Anthony Towns,NYK,57078728,"$57,078,728 ",townska01
+10,Jimmy Butler,GSW,56832773,"$56,832,773 ",butleji01
+11,Paul George,BOS,54126380,"$54,126,380 ",georgpa01
+12,Kawhi Leonard,TOR,50300000,"$106,397,561 ",leonaka01
+13,Donovan Mitchell,CLE,50105628,"$247,460,184 ",mitchdo01
+14,Cade Cunningham,DET,50105628,"$222,691,680 ",cunnica01
+15,Evan Mobley,CLE,50105628,"$222,691,680 ",mobleev01
+16,Jamal Murray,DEN,50105628,"$161,451,468 ",murraja01
+17,De'Aaron Fox,SAS,49800000,"$223,104,000 ",foxde01
+18,Bam Adebayo,MIA,49800000,"$103,584,000 ",adebaba01
+19,Luka Dončić,LAL,49800000,"$103,584,000 ",doncilu01
+20,Trae Young,WAS,49488300,"$154,403,496 ",youngtr01
+21,Jaren Jackson Jr.,UTA,49000000,"$151,500,000 ",jacksja02
+22,Zach LaVine,SAC,48967380,"$48,967,380 ",lavinza01
+23,Anthony Edwards,MIN,48924624,"$156,896,208 ",edwaran01
+24,Tyrese Haliburton,IND,48924624,"$156,896,208 ",halibty01
+25,Pascal Siakam,IND,48924624,"$101,223,360 ",siakapa01
+26,Lauri Markkanen,UTA,46113154,"$149,474,044 ",markkla01
+27,Domantas Sabonis,SAC,45472000,"$94,080,000 ",sabondo01
+28,Kevin Durant,HOU,43902439,"$43,902,439 ",duranke01
+29,OG Anunoby,NYK,42500000,"$87,931,034 ",anunoog01
+30,Ja Morant,POR,42166510,"$87,053,440 ",moranja01
+31,Zion Williamson,NOP,42166510,"$87,053,440 ",willizi01
+32,Darius Garland,LAC,42166510,"$87,053,440 ",garlada01
+33,Scottie Barnes,TOR,41754690,"$185,576,400 ",barnesc01
+34,Franz Wagner,ORL,41754690,"$185,576,400 ",wagnefr01
+35,Jalen Williams,OKC,41500000,"$240,700,000 ",willija06
+36,Chet Holmgren,OKC,41500000,"$240,700,000 ",holmgch01
+37,Paolo Banchero,ORL,41500000,"$185,920,000 ",banchpa01
+38,Austin Reaves,LAL,41240250,"$133,618,410 ",reaveau01
+39,Shai Gilgeous-Alexander,OKC,40806150,"$238,462,350 ",gilgesh01
+40,Michael Porter Jr.,BRK,40806150,"$12,000,000 ",portemi01
+41,Tyrese Maxey,PHI,40770520,"$130,746,840 ",maxeyty01
+42,LaMelo Ball,MIN,40770520,"$130,746,840 ",ballla01
+43,Jalen Duren,DET,40160643,"$200,000,000 ",durenja01
+44,Brandon Ingram,LAC,40000000,"$40,000,000 ",ingrabr01
+45,Kyrie Irving,DAL,39491282,"$39,491,282 ",irvinky01
+46,Desmond Bane,ORL,39446090,"$126,499,530 ",banede01
+47,Jalen Brunson,NYK,37739521,"$78,274,562 ",brunsja01
+48,Rudy Gobert,MIN,36500000,"$36,500,000 ",goberru01
+49,Jalen Green,PHO,36251166,"$36,251,166 ",greenja05
+50,Alperen Şengün,HOU,35642202,"$112,018,349 ",sengual01
+51,Jrue Holiday,POR,34800000,"$34,800,000 ",holidjr01
+52,Jerami Grant,MEM,34206898,"$34,206,898 ",grantje01
+53,Jordan Poole,NOP,34044642,"$34,044,642 ",poolejo01
+54,Aaron Gordon,DEN,33658037,"$70,008,717 ",gordoaa01
+55,Mikal Bridges,NYK,33482145,"$108,482,144 ",bridgmi01
+56,Julius Randle,BRK,33333334,"$33,333,334 ",randlju01
+57,Tyler Herro,MIL,33000000,"$33,000,000 ",herroty01
+58,Dejounte Murray,NOP,32785071,"$32,785,071 ",murrade01
+59,Immanuel Quickley,TOR,32500000,"$97,500,000 ",quickim01
+60,Jalen Suggs,ORL,32400000,"$88,800,000 ",suggsja01
+61,James Harden,CLE,30647619,"$62,827,619 ",hardeja01
+62,Derrick White,BOS,30348000,"$62,944,000 ",whitede01
+63,Walker Kessler,LAL,30232558,"$95,232,558 ",kesslwa01
+64,Andrew Wiggins,MIA,30169644,"$46,515,798 ",wiggian01
+65,Jalen Johnson,ATL,30000000,"$120,000,000 ",johnsja05
+66,RJ Barrett,TOR,29616071,"$29,616,071 ",barrerj01
+67,Jarrett Allen,CLE,28000000,"$90,720,000 ",allenja01
+68,Draymond Green,GSW,27678571,"$27,678,571 ",greendr01
+69,Trey Murphy III,NOP,27000000,"$87,000,000 ",murphtr02
+70,Devin Vassell,SAS,27000000,"$78,652,174 ",vassede01
+71,Myles Turner,MIL,26584164,"$54,434,241 ",turnemy01
+72,Jaden McDaniels,MIN,26200001,"$124,020,689 ",mcdanja02
+73,Dyson Daniels,ATL,25000000,"$100,000,000 ",daniedy01
+74,Josh Giddey,CHI,25000000,"$75,000,000 ",giddejo01
+75,Fred VanVleet,HOU,25000000,"$25,000,000 ",vanvlfr01
+76,De'Andre Hunter,SAC,24910714,"$24,910,714 ",huntede01
+77,Keegan Murray,SAC,24137936,"$140,000,000 ",murrake02
+78,Jabari Smith Jr.,HOU,23643411,"$122,000,000 ",smithja05
+79,Naz Reid,CHO,23275862,"$75,000,000 ",reidna01
+80,Isaiah Hartenstein,OKC,23148148,"$48,148,148 ",harteis01
+81,Nic Claxton,CHI,23147727,"$44,090,911 ",claxtni01
+82,Cameron Johnson,DEN,23062500,"$23,062,500 ",johnsca02
+83,Coby White,CHO,22839506,"$74,000,000 ",whiteco01
+84,Miles Bridges,PHO,22826087,"$22,826,087 ",bridgmi02
+85,Damian Lillard,MIL,35915403,"$90,066,412 ",lillada01
+86,Christian Braun,DEN,21551726,"$125,000,000 ",braunch01
+87,Norman Powell,CHI,21500000,"$21,500,000 ",powelno01
+88,CJ McCollum,ATL,21000000,"$21,000,000 ",mccolcj01
+89,Josh Hart,NYK,20923760,"$20,923,760 ",hartjo01
+90,Peyton Watson,CLE,20465116,"$64,465,116 ",watsope01
+91,Kyle Kuzma,MIL,20345152,"$20,345,152 ",kuzmaky01
+92,Ivica Zubac,IND,20342140,"$42,132,440 ",zubaciv01
+93,Malik Monk,SAC,20190035,"$20,190,035 ",monkma01
+94,Shaedon Sharpe,POR,20089287,"$90,000,000 ",sharpsh01
+95,Dillon Brooks,PHO,19992727,"$92,992,726 ",brookdi01
+96,P.J. Washington,DAL,19813044,"$88,762,440 ",washipj01
+97,Alex Caruso,OKC,19550160,"$62,994,960 ",carusal01
+98,Andrew Nembhard,IND,19550160,"$40,548,480 ",nembhan01
+99,Kristaps Porziņģis,GSW,19512195,"$19,512,195 ",porzikr01
+100,Jakob Poeltl,TOR,19500000,"$76,284,000 ",poeltja01
+101,Bradley Beal,PHO,25807810,"$77,532,040 ",bealbr01
+102,Ayo Dosunmu,MIN,19310345,"$86,510,348 ",dosunay01
+103,Luguentz Dort,ATL,18222222,"$18,222,222 ",dortlu01
+104,Grayson Allen,CHO,18125000,"$18,125,000 ",allengr01
+105,Wendell Carter Jr.,ORL,18102000,"$37,652,160 ",cartewe01
+106,Toumani Camara,POR,18080358,"$81,000,000 ",camarto01
+107,Patrick Williams,CHI,18000000,"$36,000,000 ",willipa01
+108,Kentavious Caldwell-Pope,MEM,20194392,"$17,744,971 ",caldwke01
+109,Keldon Johnson,SAS,17500000,"$17,500,000 ",johnske04
+110,Klay Thompson,DAL,23060317,"$17,460,317 ",thompkl01
+111,Daniel Gafford,DAL,17263584,"$54,380,289 ",gaffoda01
+112,Santi Aldama,DAL,17007043,"$17,007,043 ",aldamsa01
+113,John Collins,DET,17000000,"$17,000,000 ",collijo01
+114,Victor Wembanyama,SAS,16868246,"$211,748,246 ",wembavi01
+115,Max Strus,LAC,16660836,"$16,660,836 ",strusma01
+116,Nikola Jović,MIA,16200000,"$62,400,000 ",jovicni01
+117,Onyeka Okongwu,ATL,16120000,"$33,000,000 ",okongon01
+118,Duncan Robinson,DET,15992957,,robindu01
+119,Terance Mann,BRK,15500000,"$31,500,000 ",mannte01
+120,Gary Trent Jr.,MIL,15200000,"$64,000,000 ",trentga02
+121,Brandon Miller,CHO,15104626,"$224,104,626 ",millebr02
+122,Mitchell Robinson,BOS,15044000,"$47,388,600 ",robinmi01
+123,Tobias Harris,SAS,15044000,"$30,840,200 ",harrito02
+124,Obi Toppin,IND,15000000,"$31,025,000 ",toppiob01
+125,Isaiah Stewart,MEM,15000000,"$15,000,000 ",stewais01
+126,Herbert Jones,NOP,14898786,"$58,284,050 ",joneshe01
+127,Caris LeVert,MIL,14809200,"$14,809,200 ",leverca01
+128,Dennis Schröder,CHO,14809200,"$14,809,200 ",schrode01
+129,AJ Dybantsa,WAS,14748000,"$30,233,760 ",dybanaj01
+130,Josh Green,UTA,14679012,"$14,679,012 ",greenjo02
+131,Bobby Portis,MIA,14521414,"$14,521,414 ",portibo01
+132,Cooper Flagg,DAL,14517480,"$29,726,160 ",flaggco01
+133,Nickeil Alexander-Walker,ATL,14403710,"$29,565,510 ",alexani01
+134,Grant Williams,CHO,14265750,"$14,265,750 ",willigr01
+135,Jock Landale,ATL,14100000,"$14,100,000 ",landajo01
+136,Tari Eason,HOU,14051724,"$62,951,724 ",easonta01
+137,Rui Hachimura,LAC,14000000,"$14,000,000 ",hachiru01
+138,Corey Kispert,ATL,13975000,"$27,025,000 ",kispeco01
+139,Robert Williams,POR,13968254,"$18,968,254 ",williro04
+140,Quentin Grimes,LAL,13953489,"$43,953,489 ",grimequ01
+141,Julian Champagnie,SAS,13888889,"$45,000,000 ",champju02
+142,Zaccharie Risacher,DAL,13826040,"$31,260,677 ",risacza01
+143,Scoot Henderson,POR,13585523,"$13,585,523 ",hendesc01
+145,Dorian Finney-Smith,ATL,13335000,"$26,670,000 ",finnedo01
+146,Darryn Peterson,UTA,13195320,"$27,050,640 ",peterda02
+147,Deni Avdija,POR,13125000,"$25,000,000 ",avdijde01
+148,Sandro Mamukelashvili,LAL,13000000,"$38,350,000 ",mamuksa01
+149,Steven Adams,HOU,13000000,"$24,869,566 ",adamsst01
+150,Dylan Harper,SAS,12989040,"$26,596,800 ",harpedy01
+151,Donte DiVincenzo,MIN,12535000,"$12,535,000 ",divindo01
+152,Moses Moody,GSW,12500000,"$25,925,925 ",moodymo01
+153,Jarred Vanderbilt,LAL,12428571,"$12,428,571 ",vandeja01
+154,Davion Mitchell,MIA,12400000,"$12,400,000 ",mitchda01
+155,Alex Sarr,WAS,12370680,"$27,982,478 ",sarral01
+156,Amen Thompson,HOU,12258609,"$220,258,609 ",thompam01
+157,Cameron Boozer,MEM,11849760,"$24,291,600 ",boozeca02
+158,Isaac Okoro,CHI,11814814,"$11,814,814 ",okorois01
+159,Mark Williams,PHO,11728395,"$38,000,000 ",willima07
+160,VJ Edgecombe,PHI,11663880,"$23,883,600 ",edgecvj01
+161,Isaiah Joe,DET,11323006,"$11,323,006 ",joeis01
+162,Ausar Thompson,DET,11117925,"$166,117,925 ",thompau01
+163,Reed Sheppard,HOU,11108880,"$25,150,505 ",sheppre01
+164,Aaron Nesmith,IND,11000000,"$51,389,440 ",nesmiaa01
+165,T.J. McConnell,IND,11000000,"$22,800,000 ",mccontj01
+166,Royce O'Neale,CHO,10875000,"$22,500,000 ",onealro01
+167,Sam Hauser,BOS,10848215,"$34,955,356 ",hausesa01
+168,Collin Gillespie,PHO,10714286,"$48,000,000 ",gilleco01
+169,Caleb Wilson,CHI,10683720,"$21,901,680 ",wilsoca01
+170,Jusuf Nurkić,UTA,10576923,"$22,000,000 ",nurkiju01
+171,Kon Knueppel,CHO,10516560,"$21,534,120 ",knuepko01
+172,Derrick Jones Jr.,LAC,10476190,"$10,476,190 ",jonesde02
+173,Luke Kornet,SAS,10450000,"$13,000,000 ",kornelu01
+174,Anthony Black,ORL,10106316,"$10,106,316 ",blackan01
+175,A.J. Green,MIL,10044644,"$45,000,000 ",greenaj01
+176,Stephon Castle,SAS,10015920,"$22,686,059 ",castlst01
+177,Caleb Martin,DAL,10001493,"$10,001,493 ",martica02
+178,Day'Ron Sharpe,BRK,10000000,"$10,000,000 ",sharpda01
+179,Keaton Wagler,LAC,9674760,"$19,833,000 ",wagleke01
+180,Buddy Hield,CHI,9658536,"$9,658,536 ",hieldbu01
+181,Ace Bailey,UTA,9523080,"$19,499,640 ",baileac01
+182,Naji Marshall,DAL,9428571,"$61,286,031 ",marshna01
+183,Jalen Smith,CHI,9428571,"$9,428,571 ",smithja04
+184,Collin Sexton,LAL,9366000,"$19,200,300 ",sextoco01
+185,Moritz Wagner,BRK,9268293,"$9,268,293 ",wagnemo01
+186,Bilal Coulibaly,WAS,9240012,"$9,240,012 ",coulibi01
+187,Aaron Wiggins,ATL,9224300,"$17,570,097 ",wiggiaa01
+188,Ty Jerome,MEM,9220050,"$9,220,050 ",jeromty01
+189,Brook Lopez,LAC,9187500,"$9,187,500 ",lopezbr01
+190,Sam Merrill,CLE,9160715,"$29,517,856 ",merrisa01
+191,Ron Holland,DET,9069600,"$20,560,783 ",hollaro01
+192,Dean Wade,PHI,9000000,"$30,000,000 ",wadede01
+193,Mikel Brown Jr.,BRK,8787000,"$18,013,440 ",brownmi02
+194,Keon Ellis,BRK,8780488,"$8,780,488 ",elliske01
+195,Tre Johnson,WAS,8649600,"$17,711,280 ",johnstr03
+196,Jarace Walker,IND,8478542,"$8,478,542 ",walkeja02
+197,Kevin Huerter,DET,8333333,"$27,000,000 ",huertke01
+198,Zach Collins,CHI,8292683,"$17,000,000 ",colliza01
+199,Quinten Post,MEM,8285714,"$8,285,714 ",postqu01
+200,Max Christie,DAL,8285714,"$8,285,714 ",chrisma02
+201,Tidjane Salaün,CHO,8237880,"$8,237,880 ",salauti01
+202,Deandre Ayton,WAS,8104000,"$8,104,000 ",aytonde01
+203,Kelly Oubre Jr.,IND,8050000,"$16,500,000 ",oubreke01
+204,Darius Acuff Jr.,SAC,8021640,"$16,444,560 ",acuffda01
+205,Jonathan Isaac,ORL,10449421,"$10,449,421 ",isaacjo01
+206,Tre Mann,WAS,8000000,"$8,000,000 ",manntr01
+207,Harrison Barnes,SAS,8000000,"$8,000,000 ",barneha02
+208,Tre Jones,CHI,8000000,"$8,000,000 ",jonestr01
+209,Jeremiah Fears,NOP,7896240,"$16,168,200 ",fearsje01
+210,Taylor Hendricks,MEM,7805900,"$7,805,900 ",hendrta01
+211,Bennedict Mathurin,NOP,7804878,"$7,804,878 ",mathube01
+212,Jaylin Williams,OKC,7774648,"$7,774,648 ",willija07
+213,Payton Pritchard,BOS,7767857,"$37,299,628 ",pritcpa01
+214,Goga Bitadze,ORL,7608696,"$7,608,696 ",bitadgo01
+215,Donovan Clingan,POR,7519920,"$17,070,218 ",clingdo01
+216,Zeke Nnaji,DEN,7466667,"$7,466,667 ",nnajize01
+217,Cason Wallace,OKC,7420806,"$146,420,806 ",wallaca01
+218,Kingston Flemings,ATL,7348680,"$15,064,800 ",flemiki01
+219,Dereck Lively II,DAL,7239131,"$7,239,131 ",livelde01
+220,Egor Dëmin,BRK,7233720,"$14,811,960 ",demineg01
+221,Gradey Dick,LAC,7131511,"$7,131,511 ",dickgr01
+222,Clint Capela,HOU,7035000,"$14,405,000 ",capelca01
+223,Jordan Hawkins,MEM,7021895,"$7,021,895 ",hawkijo01
+224,Isaiah Jackson,LAC,7000000,"$13,400,000 ",jacksis01
+225,Rob Dillingham,CHO,6889320,"$6,889,320 ",dilliro01
+226,Al Horford,GSW,6822000,"$13,985,100 ",horfoal01
+227,Morez Johnson Jr.,DAL,6754800,"$13,847,880 ",johnsmo01
+228,Collin Murray-Boyles,TOR,6649560,"$13,615,560 ",murraco01
+229,Keyonte George,UTA,6563925,"$162,012,383 ",georgke01
+230,Tim Hardaway Jr.,MIA,6500000,"$6,500,000 ",hardati02
+231,Saddiq Bey,NOP,6440678,"$61,940,678 ",beysa01
+233,Brayden Burries,MIL,6417360,"$13,155,360 ",burribr01
+234,Zach Edey,MEM,6332760,"$14,400,697 ",edeyza01
+235,Khaman Maluach,PHO,6316680,"$12,933,840 ",maluakh01
+236,Yaxel Lendeborg,GSW,6096240,"$12,497,520 ",lendeya01
+237,Luke Kennard,PHO,6064000,"$6,064,000 ",kennalu01
+238,Jonathan Kuminga,MIN,6064000,"$6,064,000 ",kuminjo01
+239,Marcus Smart,HOU,6064000,"$6,064,000 ",smartma01
+240,Cody Williams,MIN,6015600,"$6,015,600 ",willico04
+241,Cedric Coward,MEM,6001080,"$12,288,000 ",cowarce01
+242,Spencer Jones,DEN,6000000,"$11,750,000 ",jonessp01
+243,Jaxson Hayes,UTA,6000000,"$6,000,000 ",hayesja02
+244,Josh Okogie,UTA,6000000,"$6,000,000 ",okogijo01
+245,Anfernee Simons,PHI,6000000,"$6,000,000 ",simonan01
+246,Jake LaRavia,LAL,6000000,"$6,000,000 ",laravja01
+247,Jaden Hardy,LAL,6000000,"$6,000,000 ",hardyja02
+248,D'Angelo Russell,MEM,5969250,"$5,969,250 ",russeda01
+249,Jaime Jaquez Jr.,MIL,5939141,"$5,939,141 ",jaqueja01
+250,Nicolas Batum,LAC,5881680,,batumni01
+251,Jordan Goodwin,PHO,5864198,"$12,197,531 ",goodwjo01
+252,Aday Mara,OKC,5791680,"$11,873,160 ",maraad01
+253,Ousmane Dieng,MIL,5750000,"$11,500,000 ",diengou01
+254,Matas Buzelis,CHI,5715360,"$13,299,643 ",buzelma01
+255,Noa Essengue,CHI,5701200,"$11,673,960 ",essenno01
+256,Kris Dunn,LAC,5684800,,dunnkr01
+257,Brandin Podziemski,GSW,5679459,"$90,644,976 ",podzibr01
+258,Paul Reed,DET,5602689,,reedpa01
+260,Khris Middleton,WAS,5591122,"$6,499,000 ",middlkh01
+261,Nate Ament,MIL,5502000,"$11,279,280 ",amentna01
+262,Precious Achiuwa,SAC,5477000,"$11,227,850 ",achiupr01
+263,De'Anthony Melton,GSW,5477000,"$5,477,000 ",meltode01
+264,Nikola Topić,OKC,5429760,"$5,429,760 ",topicni01
+265,Derik Queen,NOP,5416080,"$11,089,920 ",queende01
+266,Noah Clowney,BRK,5414034,"$5,414,034 ",clownno01
+267,Kevin Porter Jr.,MIL,5390700,"$5,390,700 ",porteke02
+268,Landry Shamet,NYK,5357143,"$24,000,000 ",shamela01
+269,Kris Murray,MEM,5315004,"$5,315,004 ",murrakr01
+270,Jordan Miller,LAC,5300000,"$5,300,000 ",millejo02
+271,Hannes Steinbach,CHO,5227200,"$10,715,760 ",steinha02
+272,Marcus Sasser,DAL,5198983,"$5,198,983 ",sassema01
+273,Devin Carter,ATL,5158080,"$5,158,080 ",cartede02
+274,Carter Bryant,SAS,5145360,"$10,536,000 ",bryanca01
+275,Ben Sheppard,IND,5031669,"$5,031,669 ",sheppbe01
+276,Kenrich Williams,OKC,5000000,"$5,000,000 ",willike04
+277,Dailyn Swain,CHI,4965480,"$10,179,240 ",swainda01
+278,Bub Carrington,WAS,4900560,"$12,158,290 ",carrica01
+279,Thomas Sorber,OKC,4887720,"$10,008,120 ",sorbeth01
+280,Brice Sensabaugh,UTA,4862237,"$4,862,237 ",sensabr01
+281,Julian Strawther,DEN,4826931,"$4,826,931 ",strawju01
+282,Bennett Stirtz,OKC,4717320,"$9,670,560 ",stirtbe01
+283,Kel'el Ware,MIL,4654920,"$11,790,912 ",wareke01
+284,Yang Hansen,POR,4643520,"$9,508,440 ",yangha01
+285,Gui Santos,GSW,4629630,"$9,629,630 ",santogu01
+286,Jose Alvarado,NYK,4500000,"$14,580,000 ",alvarjo01
+287,Josh Minott,BRK,4500000,"$4,500,000 ",minotjo01
+288,Ebuka Okorie,DET,4481280,"$9,186,720 ",okorieb01
+289,Jared McCain,OKC,4422600,"$11,206,868 ",mccaija01
+290,Joan Beringer,MIN,4411200,"$9,032,400 ",berinjo01
+291,Christian Anderson Jr.,CHO,4257480,"$8,727,480 ",anderch02
+292,Dalton Knecht,LAL,4201080,"$4,201,080 ",knechda01
+293,Walter Clayton,MEM,4190520,"$4,190,520 ",claytwa01
+294,Allen Graves,TOR,4065720,"$8,334,600 ",graveal01
+295,Nolan Traoré,BRK,4002000,"$8,195,040 ",traorno01
+296,Ryan Rollins,MIL,4000000,"$4,000,000 ",rolliry01
+297,Daniss Jenkins,DET,4000000,"$4,000,000 ",jenkida01
+298,Tristan Da Silva,ORL,3991200,"$10,129,666 ",dasiltr01
+299,Miles McBride,NYK,3956523,"$3,956,523 ",mcbrimi01
+300,Javonte Green,DET,3943679,"$3,943,679 ",greenja02
+301,Jayden Quaintance,SAS,3902760,"$8,000,640 ",quainja01
+302,DeAndre Jordan,NOP,3876529,"$7,946,884 ",jordade01
+303,LeBron James,PHI,3876529,"$3,876,529 ",jamesle01
+304,Svi Mykhailiuk,UTA,3850000,,mykhasv01
+305,Kasparas Jakučionis,MIL,3841680,"$7,866,120 ",jakucka01
+306,Gary Harris,DET,3815861,"$3,815,861 ",harriga01
+307,Taurean Prince,DET,3815861,"$3,815,861 ",princta02
+308,Pat Connaughton,CHO,3815861,"$3,815,861 ",connapa01
+309,Ja'Kobe Walter,TOR,3811800,"$9,681,972 ",walteja01
+310,Karim López,MEM,3746760,"$7,681,080 ",lopezka01
+311,Cole Anthony,MEM,3700000,"$7,400,000 ",anthoco01
+312,Will Riley,WAS,3688320,"$7,552,320 ",rileywi01
+313,Jaylon Tyson,CLE,3658560,"$9,300,060 ",tysonja01
+314,Labaron Philon Jr.,PHI,3597120,"$7,373,880 ",philola01
+315,Drake Powell,BRK,3540600,"$7,249,920 ",poweldr01
+316,Yves Missi,NOP,3512760,"$9,108,587 ",missiyv01
+317,Zuby Ejiofor,ATL,3453360,"$7,079,520 ",ejiofzu01
+318,Dominick Barlow,PHI,3415000,"$3,415,000 ",barlodo01
+319,Ariel Hukporti,PHI,3400000,"$3,400,000 ",hukpoar01
+320,Asa Newell,ATL,3399480,"$6,960,360 ",newelas01
+321,DaRon Holmes,DEN,3372120,"$3,372,120 ",holmeda01
+322,Cameron Carr,LAL,3315360,"$6,796,440 ",carrca01
+323,Mo Bamba,UTA,3286399,"$6,968,390 ",bambamo01
+324,Nique Clifford,SAC,3263400,"$6,682,200 ",cliffni01
+325,AJ Johnson,NOP,3237120,"$3,237,120 ",johnsaj01
+326,Sergio de Larrea,DAL,3182280,"$6,523,560 ",delarse01
+327,Ron Harper Jr.,BOS,3150752,"$6,459,042 ",harpero02
+328,Jase Richardson,ORL,3132360,"$6,414,360 ",richaja02
+329,Kyshawn George,WAS,3108000,"$8,543,892 ",georgky01
+330,Nassir Little,PHO,3107143,"$9,321,429 ",littlna01
+331,Jaylen Clark,MIN,3086420,"$10,000,000 ",clarkja02
+332,Tarris Reed Jr.,SAS,3076920,"$6,307,440 ",reedjta01
+333,Ben Saraf,BRK,3028560,"$6,201,480 ",sarafbe01
+334,Tarik Biberovic,DAL,3000000,"$3,000,000 ",biberta01
+335,Kyle Filipowski,UTA,3000000,,filipky01
+336,Chris Cenac Jr.,BOS,2988120,"$6,125,760 ",cenacch01
+337,Pacôme Dadiet,NYK,2983680,"$2,983,680 ",dadiepa01
+338,Joshua Jefferson,BRK,2969520,"$6,088,080 ",jeffejo01
+339,Alex Karaban,SAC,2948280,"$6,043,920 ",karabal01
+340,Danny Wolf,BRK,2941440,"$6,023,280 ",wolfda01
+341,Koa Peat,PHO,2926800,"$5,999,880 ",peatko01
+342,Hugo González,BOS,2923560,"$5,986,200 ",gonzahu01
+343,Liam McNeeley,CHO,2902080,"$5,942,400 ",mcneeli01
+344,Yanic Konan Niederhäuser,LAC,2880960,"$5,899,440 ",konanya01
+345,Ajay Mitchell,OKC,2850000,,mitchaj01
+346,Bones Hyland,MIN,2845883,"$2,845,883 ",hylanbo01
+347,Terrence Shannon Jr.,MIN,2801640,"$7,855,799 ",shannte01
+348,Micah Potter,POR,2801346,"$2,801,346 ",pottemi01
+349,Jericho Sims,MIL,2801346,"$2,801,346 ",simsje01
+350,Luka Garza,BOS,2801346,"$2,801,346 ",garzalu01
+351,Ryan Dunn,PHO,2784240,"$7,809,793 ",dunnry01
+352,Isaiah Collier,UTA,2763960,"$2,763,960 ",colliis01
+353,Baylor Scheierman,BOS,2744040,"$7,697,033 ",scheiba01
+354,Neemias Queta,BOS,2667944,"$58,667,944 ",quetane01
+355,Justin Champagnie,WAS,2667944,"$2,667,944 ",champju01
+356,Vít Krejčí,POR,2667944,,krejcvi01
+357,Jay Huff,IND,2667944,,huffja01
+358,Kobe Sanders,LAC,2622139,"$5,375,385 ",sandeko01
+359,Jamaree Bouyea,PHO,2584539,"$2,584,539 ",bouyeja01
+360,Jamal Cain,ORL,2584539,"$2,584,539 ",cainja01
+361,Bryce McGowens,NOP,2584539,"$2,584,539 ",mcgowbr01
+362,Jabari Walker,PHI,2584539,,walkeja01
+363,Dru Smith,MIA,2584539,,smithdr01
+364,Pete Nance,MIL,2537526,"$2,537,526 ",nancepe01
+365,Olivier-Maxence Prosper,MEM,3500172,"$2,497,812 ",prospol01
+366,Sidy Cissoko,POR,2497812,,cissosi01
+367,Scotty Pippen Jr.,MEM,2461462,,pippesc02
+368,Moussa Diabaté,CHO,2461462,,diabamo01
+370,Daeqwon Plowden,SAC,2449421,"$5,113,822 ",plowdda01
+371,Isaiah Crawford,HOU,2449421,"$5,113,822 ",crawfis01
+372,Anthony Gill,WAS,2449421,"$2,449,421 ",gillan01
+373,Kyle Anderson,TOR,2449421,"$2,449,421 ",anderky01
+374,Jordan McLaughlin,SAS,2449421,"$2,449,421 ",mclaujo01
+375,Branden Carlson,POR,2449421,"$2,449,421 ",carlsbr01
+377,Jevon Carter,ORL,2449421,"$2,449,421 ",carteje01
+378,Nikola Vučević,ORL,2449421,"$2,449,421 ",vucevni01
+379,Jordan Clarkson,NYK,2449421,"$2,449,421 ",clarkjo01
+380,Andre Drummond,NYK,2449421,"$2,449,421 ",drumman01
+381,Trey Lyles,MIN,2449421,"$2,449,421 ",lylestr01
+382,Nick Richards,MIA,2449421,"$2,449,421 ",richani01
+383,Simone Fontecchio,MIA,2449421,"$2,449,421 ",fontesi01
+384,Matisse Thybulle,LAL,2449421,"$2,449,421 ",thybuma01
+385,Ziaire Williams,LAL,2449421,"$2,449,421 ",willizi02
+386,Kevon Looney,LAL,2449421,"$2,449,421 ",looneke01
+387,Larry Nance Jr.,IND,2449421,"$2,449,421 ",nancela02
+388,Jae'Sean Tate,HOU,2449421,"$2,449,421 ",tateja01
+389,Bogdan Bogdanović,HOU,2449421,"$2,449,421 ",bogdabo01
+390,Gary Payton II,GSW,2449421,"$2,449,421 ",paytoga02
+391,Charles Bassey,GSW,2449421,"$2,449,421 ",bassech01
+392,DeMar DeRozan,DEN,2449421,"$2,449,421 ",derozde01
+393,Marvin Bagley III,DEN,2449421,"$2,449,421 ",baglema01
+394,Tyus Jones,DEN,2449421,"$2,449,421 ",jonesty01
+395,Mario Hezonja,CLE,2449421,"$2,449,421 ",hezonma01
+396,Thomas Bryant,CLE,2449421,"$2,449,421 ",bryanth01
+397,Mike Conley,BOS,2449421,"$2,449,421 ",conlemi01
+398,Ben Simmons,SAC,2449421,,simmobe01
+399,James Wiseman,NYK,2449421,,wisemja01
+400,Trendon Watford,NOP,2449421,,watfotr01
+401,Georges Niang,GSW,2449421,,niangge01
+402,Brandon Williams,GSW,2449421,,willibr03
+403,Cam Spencer,MEM,2411090,"$5,027,844 ",spencca01
+404,Justin Edwards,PHI,2411090,"$2,411,090 ",edwarju01
+405,Tolu Smith,DET,2411090,"$2,411,090 ",smithto05
+406,Nae'Qwan Tomlin,CLE,2411090,"$2,411,090 ",tomlina01
+407,Sion James,CHO,2411090,"$2,411,090 ",jamessi01
+408,Ryan Kalkbrenner,CHO,2411090,"$2,411,090 ",kalkbry01
+409,Jordan Walsh,BOS,2406205,"$17,406,205 ",walshjo01
+410,Trayce Jackson-Davis,TOR,2406205,"$2,406,205 ",jackstr02
+411,GG Jackson II,MEM,2406205,"$2,406,205 ",jacksgg01
+412,Craig Porter Jr.,CLE,2406205,"$2,406,205 ",portecr01
+413,Leonard Miller,CHI,2406205,"$2,406,205 ",millele01
+414,Mouhamed Gueye,ATL,2406205,"$2,406,205 ",gueyemo02
+415,Pelle Larsson,MIA,2296271,"$45,689,128 ",larsspe01
+416,Oso Ighodaro,PHO,2296271,"$33,783,266 ",ighodos01
+417,Jamal Shead,TOR,2296271,"$26,296,271 ",sheadja01
+418,Tyler Kolek,NYK,2296271,"$2,296,271 ",kolekty01
+419,Karlo Matković,NOP,2296271,"$2,296,271 ",matkoka01
+420,Johnny Furphy,IND,2296271,"$2,296,271 ",furphjo01
+421,Jamison Battle,TOR,2296271,,battlja01
+422,Adem Bona,PHI,2296271,,bonaad01
+423,Jaylen Wells,MEM,2296271,,wellsja01
+424,Bronny James,LAL,2296271,,jamesbr02
+425,Mohamed Diawara,NYK,2232143,"$10,000,000 ",diawamo01
+426,JaVale McGee,DAL,2208856,"$4,417,712 ",mcgeeja01
+427,Alijah Martin,TOR,2185116,"$2,185,116 ",martial01
+428,Moussa Cissé,DAL,2185116,"$2,185,116 ",cissemo01
+429,Rasheer Fleming,PHO,2150917,"$4,676,818 ",flemira01
+430,Maxime Raynaud,SAC,2150917,"$2,150,917 ",raynama01
+431,Noah Penda,ORL,2150917,"$2,150,917 ",pendano01
+432,Micah Peavy,MEM,2150917,"$2,150,917 ",peavymi01
+433,Adou Thiero,LAL,2150917,"$2,150,917 ",thierad01
+434,Johni Broome,LAC,2150917,"$2,150,917 ",broomjo01
+435,Will Richard,GSW,2150917,"$2,150,917 ",richawi02
+436,Chaz Lanier,DET,2150917,"$2,150,917 ",laniech01
+437,Tyrese Proctor,CLE,2150917,"$2,150,917 ",proctty01
+438,Ryan Nembhard,CHO,2150917,"$2,150,917 ",nembhry01
+439,Myron Gardner,MIA,2150917,,gardnmy01
+440,John Konchar,MIN,2055000,"$6,165,000 ",konchjo01
+441,Cam Whitmore,CLE,1819437,"$5,458,311 ",whitmca01
+442,Baba Miller,LAC,1705630,"$4,000,000 ",milleba01
+443,Isaiah Evans,MIN,1357763,"$6,346,496 ",evansis01
+444,Bogoljub Markovic,MIL,1357763,"$6,346,496 ",markobo01
+445,Meleek Thomas,CLE,1357763,"$6,346,496 ",thomame01
+446,Emanuel Sharp,SAC,1357763,"$3,652,133 ",sharpem01
+447,Ryan Conwell,MIA,1357763,"$3,652,133 ",conwery01
+448,Henri Veesaar,ATL,1357763,"$3,652,133 ",veesahe01
+449,Jaden Bradley,TOR,1357763,"$1,357,763 ",bradlja02
+450,Bruce Thornton,HOU,1357763,"$1,357,763 ",thornbr01
+451,Trevon Brazile,DEN,1357763,"$1,357,763 ",brazitr01
+452,Khalifa Diop,CLE,1357763,"$1,357,763 ",diopkh01
+453,Alpha Diallo,DEN,1357763,,diallal01
+455,Haywood Highsmith,PHO,1000000,"$1,000,000 ",highsha01
+456,E.J. Liddell,PHO,706898,"$706,898 ",liddeej01
+457,Vasilije Micić,MIL,666667,"$1,333,334 ",micicva01
+458,Mamadi Diakite,MEM,464050,"$464,050 ",diakima01
+459,Ricky Rubio,CLE,424672,"$424,672 ",rubiori01
+460,Didi Louzada,POR,268032,"$804,096 ",louzama01
+461,Taj Gibson,NOP,148828,"$148,828 ",gibsota01
